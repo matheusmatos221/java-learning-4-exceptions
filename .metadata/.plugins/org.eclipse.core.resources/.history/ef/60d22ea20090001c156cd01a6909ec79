@@ -1,0 +1,16 @@
+
+public class TesteConexao {
+	public static void main(String[] args) {
+		
+		Conexao conn = null;
+		try{
+			Conexao conn = new Conexao();
+			conn.leDados();
+		}catch(IllegalStateException ex) {
+			System.out.println("Ilegal Exception");
+		}finally {			
+			conn.fecha();
+		}
+		
+	}
+}

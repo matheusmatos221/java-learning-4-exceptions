@@ -1,0 +1,8 @@
+content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="Tributavel"><rhs name\="ContaCorrente"/></lhs><lhs name\="Conta"><rhs name\="ContaCorrente"/></lhs><lhs name\="ContaCorrente"><rhs name\="ContaCorrente"/></lhs><lhs name\="java.lang.Exception"><rhs name\="SaldoInsuficienteException"/></lhs><lhs name\="java.lang.Throwable"><rhs name\="SaldoInsuficienteException"/></lhs><lhs name\="SaldoInsuficienteException"><rhs name\="SaldoInsuficienteException"/></lhs></history>
+content_assist_number_of_computers=12
+eclipse.preferences.version=1
+org.eclipse.jdt.ui.formatterprofiles.version=21
+spelling_locale_initialized=true
+typefilter_migrated_2=true
+useAnnotationsPrefPage=true
+useQuickDiffPrefPage=true

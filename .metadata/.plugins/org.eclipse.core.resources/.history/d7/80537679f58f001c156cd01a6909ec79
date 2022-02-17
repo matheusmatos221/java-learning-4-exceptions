@@ -1,0 +1,6 @@
+
+public class Conta throws MinhaExcecao {
+	void deposita() {
+		throw new MinhaExcecao("Excecao Minha Excecao");
+	}
+}
